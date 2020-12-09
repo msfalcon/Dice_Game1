@@ -1,1 +1,3 @@
-# Dice_Game1
+This is a Dice rolling Game website.
+
+you can visit this site by clicking on this link 
